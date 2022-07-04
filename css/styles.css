@@ -43,7 +43,7 @@ p{
 
 .item:hover{
     cursor: pointer;
-    font-size: 15px;
+    color: black;
 }
 
 @media (max-width:640px){
